@@ -3,6 +3,7 @@ Here I created a static website which provides E-Commerce service To the coffee 
 ## My website link: https://orange-moss-01d877110.2.azurestaticapps.net
 ## Demo video link:
 ## Home page
+![](Screenshot (19).png)
 ## About page
 ## Menu page
 ## Product page

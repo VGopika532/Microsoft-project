@@ -21,4 +21,4 @@ Here I created a static website which provides E-Commerce service To the coffee 
 ## Search page
 ![](https://github.com/VGopika532/Microsoft-project/blob/main/Screenshot%20(26).png)
 ## Microsoft Azure page
-![](https://github.com/VGopika532/Microsoft-project/blob/main/Screenshot%20(28).png)
+![](https://github.com/VGopika532/Microsoft-project/blob/main/Screenshot%20(18).png)

@@ -1,7 +1,7 @@
 ## Future Ready Talent Project
-Here I created a static website which provides E-Commerce service To the coffee lovers at ease.
+Here I created a static website which provides E-Commerce service To the coffee lovers at ease.Through this website people can buy their favourite coffee and coffee seeds also.I have deployed it using Microsoft Azure.In MS Azure,I have selceted the static web apps service and deployed the website.
 ## My website link: https://orange-moss-01d877110.2.azurestaticapps.net
-## Demo video link:
+## Demo video link:https://youtu.be/SyBsKYBvTNE
 ## Home page
 ![](https://github.com/VGopika532/Microsoft-project/blob/main/Screenshot%20(19).png)
 ## About page
